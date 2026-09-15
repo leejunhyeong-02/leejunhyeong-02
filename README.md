@@ -63,11 +63,4 @@
 | ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
 | 📊 **[lg-aimers](https://github.com/leejunhyeong-02/lg-aimers)** | LG aimers 9기 해커톤 머신러닝 모델링 | `Tabular ML`, `Ensemble` | Completed |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leejunhyeong-02&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejunhyeong-02&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
