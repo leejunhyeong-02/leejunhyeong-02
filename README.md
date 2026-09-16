@@ -31,6 +31,7 @@
 
 ## 🏆 Honors & Awards
 
+- 🥈 **2025 국제로봇콘테스트(IRC) & 로봇챌린지 자율주행(ASW) 부문 2위 (지식재산처장상)** (KIRIA, 2025.11)
 - 🥉 **상명대학교 캡스톤 디자인 경진대회 장려상** (AMI 팀, 2026)
 - 🚀 **LG Aimers 9기 해커톤 참가** (Tabular ML / AI Modeling, 2026)
 
@@ -38,10 +39,11 @@
 
 ## 🛠️ Tech Stack
 
-### AI & Computer Vision
+### AI & Robotics / Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultralytics_YOLO-11/v8-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ROS_2-Foxy/Humble-22314E?style=flat-square&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
@@ -60,7 +62,8 @@
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
+| 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10 스케일 고속 자율주행 통합 내비게이션 시스템 | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2위 수상 (지식재산처장상) |
 | ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
-| 📊 **[lg-aimers](https://github.com/leejunhyeong-02/lg-aimers)** | LG aimers 9기 해커톤 머신러닝 모델링 | `Tabular ML`, `Ensemble` | Completed |
+| 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 해커톤 머신러닝 모델링 | `Tabular ML`, `Ensemble` | Completed |
 
 
