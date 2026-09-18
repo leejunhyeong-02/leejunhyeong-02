@@ -14,7 +14,7 @@
 - 🔭 I am actively researching **Real-time Object Detection, Keypoint Estimation, and Geometric Calibration** in sports broadcasts.
 - 📄 First author of a **KCI-indexed paper** on automated check swing adjudication using YOLO11.
 - 🎯 Preparing for graduate school admissions in **Computer Vision & AI Labs**.
-- 💬 Ask me about **YOLO, OpenCV, PyTorch, and KBO Sports Vision**.
+- 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
 ---
