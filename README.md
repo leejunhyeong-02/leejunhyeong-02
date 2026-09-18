@@ -64,6 +64,7 @@
 |---|---|---|---|
 | 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10 스케일 고속 자율주행 통합 내비게이션 시스템 | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2위 수상 (지식재산처장상) |
 | ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
+| 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM / 3D Vision 논문 리뷰 및 인과추론 세미나 슬라이드 아카이브 | `VLM`, `3D Vision`, `Causal Inference` | Actively Updating |
 | 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 해커톤 머신러닝 모델링 | `Tabular ML`, `Ensemble` | Completed |
 
 
