@@ -2,6 +2,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leejunhyeong-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="./CV_JunhyeongLee.pdf">
+    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-PDF_Download-10b981?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Curriculum Vitae" />
+  </a>
 </p>
 
 > 🎓 **Undergraduate Researcher** passionate about **Computer Vision, Deep Learning, and Sports Analytics**  
@@ -15,6 +18,7 @@
 - 📄 First author of a **KCI-indexed paper** on automated check swing adjudication using YOLO11.
 - 🎯 Preparing for graduate school admissions in **Computer Vision & AI Labs**.
 - 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
+- 📄 **Curriculum Vitae**: [Download CV (PDF)](./CV_JunhyeongLee.pdf)
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
 ---
