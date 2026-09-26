@@ -37,7 +37,7 @@
 
 - 🥈 **2025 국제로봇콘테스트(IRC) & 로봇챌린지 자율주행(ASW) 부문 2위 (지식재산처장상)** (KIRIA, 2025.11)
 - 🥉 **상명대학교 캡스톤 디자인 경진대회 장려상** (AMI 팀, 2026)
-- 🚀 **LG Aimers 9기 해커톤 참가** (Tabular ML / AI Modeling, 2026)
+- 🚀 **LG Aimers 9기 AI 해커톤** — 상위 22.7% 기록 (248 / 1,090팀, 2026)
 
 ---
 
@@ -69,6 +69,6 @@
 | 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10 스케일 고속 자율주행 통합 내비게이션 시스템 | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2위 수상 (지식재산처장상) |
 | ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
 | 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM / 3D Vision 논문 리뷰 및 인과추론 세미나 슬라이드 아카이브 | `VLM`, `3D Vision`, `Causal Inference` | Actively Updating |
-| 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 해커톤 머신러닝 모델링 | `Tabular ML`, `Ensemble` | Completed |
+| 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 AI 해커톤: Tabular 불균형 데이터 예측 앙상블 파이프라인 | `Tabular ML`, `Ensemble` | 상위 22.7% (248 / 1,090팀) |
 
 
