@@ -27,13 +27,13 @@
 
 - **[KCI Journal] KBO 체크스윙 실시간 자동 판정 시스템: YOLO11 키포인트 탐지 및 임계선 보정 접근법**  
   *Real-Time KBO Check Swing Automated Adjudication System: YOLO11 Keypoint Detection and Threshold Calibration Approach*  
-  **Jun Hyeong Lee**, Han Saem Park  
+  **Jun Hyeong Lee** (1st Author), Han Saem Park† (Corresponding Author)  
   *Journal of Korea Multimedia Society (한국멀티미디어학회 논문지)*, Vol. 29, No. 7, pp. 1026–1035, July 2026  
   🔗 [DOI: 10.9717/kmms.2026.29.7.1026](https://doi.org/10.9717/kmms.2026.29.7.1026) | [Repository](https://github.com/leejunhyeong-02/kbo-checkswing-detection)
 
 - **[Conference] 건물 에너지 OOD 적응력 강화를 위한 채널 독립-혼합 하이브리드 모델에 관한 연구**  
   *A Study on A Channel-Independent and Channel-Mixing Hybrid Model for Enhanced OOD Adaptability in Building Energy Forecasting*  
-  Min Seok Kwon*, Dong Woo Kim*, **Jun Hyeong Lee***, Han Saem Park$^\dagger$ (*Co-First Authors / Equal Contribution)  
+  Min Seok Kwon\*, Dong Woo Kim\*, **Jun Hyeong Lee**\*, Han Saem Park† (\*Co-First Authors / Equal Contribution, †Corresponding Author)  
   *2026년도 한국통신학회 하계종합학술발표회 (KICS Summer Conference 2026)*, June 2026  
   🔗 [Repository](https://github.com/leejunhyeong-02/building-energy-ood-hybrid) | [Paper PDF](https://github.com/leejunhyeong-02/building-energy-ood-hybrid/blob/main/docs/Building_Energy_OOD_Hybrid_Model_KICS_2026.pdf)
 
