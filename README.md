@@ -23,13 +23,19 @@
 
 ---
 
-## 📄 Publications
+## 📄 Publications & Conferences
 
-- **[KCI] KBO 체크스윙 실시간 자동 판정 시스템: YOLO11 키포인트 탐지 및 임계선 보정 접근법**  
+- **[KCI Journal] KBO 체크스윙 실시간 자동 판정 시스템: YOLO11 키포인트 탐지 및 임계선 보정 접근법**  
   *Real-Time KBO Check Swing Automated Adjudication System: YOLO11 Keypoint Detection and Threshold Calibration Approach*  
   **Jun Hyeong Lee**, Han Saem Park  
   *Journal of Korea Multimedia Society (한국멀티미디어학회 논문지)*, Vol. 29, No. 7, pp. 1026–1035, July 2026  
   🔗 [DOI: 10.9717/kmms.2026.29.7.1026](https://doi.org/10.9717/kmms.2026.29.7.1026) | [Repository](https://github.com/leejunhyeong-02/kbo-checkswing-detection)
+
+- **[Conference] 건물 에너지 OOD 적응력 강화를 위한 채널 독립-혼합 하이브리드 모델에 관한 연구**  
+  *A Study on A Channel-Independent and Channel-Mixing Hybrid Model for Enhanced OOD Adaptability in Building Energy Forecasting*  
+  Min Seok Kwon, Dong Woo Kim, **Jun Hyeong Lee**, Han Saem Park  
+  *2026년도 한국통신학회 하계종합학술발표회 (KICS Summer Conference 2026)*, June 2026  
+  🔗 [Repository](https://github.com/leejunhyeong-02/building-energy-ood-hybrid)
 
 ---
 
@@ -68,6 +74,7 @@
 |---|---|---|---|
 | 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10 스케일 고속 자율주행 통합 내비게이션 시스템 | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2위 수상 (지식재산처장상) |
 | ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
+| ⚡ **[building-energy-ood-hybrid](https://github.com/leejunhyeong-02/building-energy-ood-hybrid)** | 건물 에너지 OOD 예측을 위한 CI-CM 하이브리드 시계열 모델 | `Time-Series`, `OOD`, `PyTorch` | KICS 2026 Published |
 | 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM / 3D Vision 논문 리뷰 및 인과추론 세미나 슬라이드 아카이브 | `VLM`, `3D Vision`, `Causal Inference` | Actively Updating |
 | 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 AI 해커톤: Tabular 불균형 데이터 예측 앙상블 파이프라인 | `Tabular ML`, `Ensemble` | 상위 22.7% (248 / 1,090팀) |
 
