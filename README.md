@@ -5,6 +5,9 @@
   <a href="./CV_JunhyeongLee.pdf">
     <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-PDF_Download-10b981?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Curriculum Vitae" />
   </a>
+  <a href="./Portfolio_JunhyeongLee.pdf">
+    <img src="https://img.shields.io/badge/📂_Portfolio-PDF_Download-2563eb?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 > 🎓 **Undergraduate Researcher** passionate about **Computer Vision, Deep Learning, and Sports Analytics**  
@@ -19,6 +22,7 @@
 - 🎯 Preparing for graduate school admissions in **Computer Vision & AI Labs**.
 - 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
 - 📄 **Curriculum Vitae**: [Download CV (PDF)](./CV_JunhyeongLee.pdf)
+- 📂 **Portfolio**: [Download Portfolio (PDF)](./Portfolio_JunhyeongLee.pdf)
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
 ---
