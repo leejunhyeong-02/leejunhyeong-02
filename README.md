@@ -22,13 +22,11 @@
 
 ## 🔬 About Me
 
-- 🔭 I am actively researching **Real-time Object Detection, Keypoint Estimation, and Geometric Calibration** in sports broadcasts.
-- 📄 First author of a **KCI-indexed paper** on automated check swing adjudication using YOLO11.
-- 🎯 Preparing for graduate school admissions in **Computer Vision & AI Labs**.
+- 🔭 Undergraduate Researcher at **AMI Lab**, specializing in **Computer Vision & Spatiotemporal Deep Learning**.
+- 📄 First author of a **KCI-indexed journal paper** on real-time check-swing adjudication using YOLO11 pose estimation.
+- 🏎️ 2nd place winner (**Intellectual Property Commissioner's Award**) at the 2025 International Robot Contest (IROC).
+- 🎯 Preparing for graduate school admissions (MS/PhD) in **Computer Vision & Robotics Labs**.
 - 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
-- 📄 **Curriculum Vitae**: [Download CV (PDF)](./CV_JunhyeongLee.pdf)
-- 📂 **Portfolio**: [Download Portfolio (PDF)](./Portfolio_JunhyeongLee.pdf)
-- 🎤 **Research Presentation**: [Download Research Overview Slides (PDF)](./Presentation_Research_JunhyeongLee.pdf)
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
 ---
@@ -59,21 +57,20 @@
 
 ## 🛠️ Tech Stack
 
-### AI & Robotics / Computer Vision
+### AI & Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultralytics_YOLO-11/v8-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ROS_2-Foxy/Humble-22314E?style=flat-square&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS_2-Foxy/Humble-22314E?style=flat-square&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### Programming & Tools
+### Languages & Environments
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
@@ -82,10 +79,10 @@
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10 스케일 고속 자율주행 통합 내비게이션 시스템 | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2위 수상 (지식재산처장상) |
-| ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | KBO 체크스윙 실시간 자동 판정 시스템 (단일 중계 영상) | `YOLO11`, `OpenCV`, `Python` | KCI Published |
-| ⚡ **[building-energy-ood-hybrid](https://github.com/leejunhyeong-02/building-energy-ood-hybrid)** | 건물 에너지 OOD 예측을 위한 CI-CM 하이브리드 시계열 모델 | `Time-Series`, `OOD`, `PyTorch` | KICS 2026 Published |
-| 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM / 3D Vision 논문 리뷰 및 인과추론 세미나 슬라이드 아카이브 | `VLM`, `3D Vision`, `Causal Inference` | Actively Updating |
-| 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | LG Aimers 9기 AI 해커톤: Tabular 불균형 데이터 예측 앙상블 파이프라인 | `Tabular ML`, `Ensemble` | 상위 22.7% (248 / 1,090팀) |
+| 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10-scale high-speed autonomous navigation system | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2nd Place Award (KIRIA) |
+| ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | Real-time KBO check-swing automated adjudication system | `YOLO11`, `OpenCV`, `Python` | 📄 KCI Published (1st Author) |
+| ⚡ **[building-energy-ood-hybrid](https://github.com/leejunhyeong-02/building-energy-ood-hybrid)** | CI-CM hybrid time-series forecasting model for energy OOD | `Time-Series`, `OOD`, `PyTorch` | 📄 KICS 2026 Published |
+| 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM, 3D Vision papers and causal inference seminar archive | `VLM`, `3D Vision`, `Causal Inference` | 🔄 Actively Updating |
+| 📊 **[lg-aimers-main](https://github.com/leejunhyeong-02/lg-aimers-main)** | Tabular imbalanced data forecasting ensemble pipeline | `Tabular ML`, `Ensemble` | 🚀 Top 22.7% (248/1,090 Teams) |
 
 
