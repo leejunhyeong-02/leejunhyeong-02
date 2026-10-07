@@ -25,7 +25,6 @@
 - 🔭 Undergraduate Researcher at **AMI Lab**, specializing in **Computer Vision & Spatiotemporal Deep Learning**.
 - 📄 First author of a **KCI-indexed journal paper** on real-time check-swing adjudication using YOLO11 pose estimation.
 - 🏎️ 2nd place winner (**Intellectual Property Commissioner's Award**) at the 2025 International Robot Contest (IROC).
-- 🎯 Preparing for graduate school admissions (MS/PhD) in **Computer Vision & Robotics Labs**.
 - 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
