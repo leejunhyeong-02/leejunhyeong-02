@@ -1,7 +1,9 @@
 # Hi there, I'm Junhyeong Lee (이준형) 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leejunhyeong-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/leejunhyeong-02">
+    <img src="https://komarev.com/ghpvc/?username=leejunhyeong-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
   <a href="./CV_JunhyeongLee.pdf">
     <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-PDF_Download-10b981?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Curriculum Vitae" />
   </a>
