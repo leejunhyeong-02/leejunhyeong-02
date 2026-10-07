@@ -8,6 +8,9 @@
   <a href="./Portfolio_JunhyeongLee.pdf">
     <img src="https://img.shields.io/badge/📂_Portfolio-PDF_Download-2563eb?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="./Presentation_Research_JunhyeongLee.pdf">
+    <img src="https://img.shields.io/badge/🎤_Research_Overview-PDF_Download-8b5cf6?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Research Presentation" />
+  </a>
 </p>
 
 > 🎓 **Undergraduate Researcher** passionate about **Computer Vision, Deep Learning, and Sports Analytics**  
@@ -23,6 +26,7 @@
 - 💬 Ask me about **YOLO, OpenCV, PyTorch, and Sports Vision**.
 - 📄 **Curriculum Vitae**: [Download CV (PDF)](./CV_JunhyeongLee.pdf)
 - 📂 **Portfolio**: [Download Portfolio (PDF)](./Portfolio_JunhyeongLee.pdf)
+- 🎤 **Research Presentation**: [Download Research Overview Slides (PDF)](./Presentation_Research_JunhyeongLee.pdf)
 - 📫 How to reach me: **leejunhyeong02@gmail.com**
 
 ---
