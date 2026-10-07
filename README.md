@@ -1,4 +1,4 @@
-# Hi there, I'm Junhyeong Lee (이준형) 👋
+# Junhyeong Lee (이준형)
 
 <p align="left">
   <a href="https://github.com/leejunhyeong-02">
@@ -15,8 +15,8 @@
   </a>
 </p>
 
-> 🎓 **Undergraduate Researcher** passionate about **Computer Vision, Deep Learning, and Sports Analytics**  
-> 🏛️ Sangmyung University, Dept. of Software
+**Computer Vision & Deep Learning Researcher**  
+*Undergraduate Researcher @ AMI Lab, Department of Software, Sangmyung University*
 
 ---
 
