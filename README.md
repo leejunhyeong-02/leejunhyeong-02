@@ -79,7 +79,7 @@
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
 | 🏎️ **[autonomous-asw-racer](https://github.com/leejunhyeong-02/autonomous-asw-racer)** | 1/10-scale high-speed autonomous navigation system | `ROS 2`, `OpenCV`, `LiDAR`, `Python` | 🥈 2nd Place Award (KIRIA) |
-| ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | Real-time KBO check-swing automated adjudication system | `YOLO11`, `OpenCV`, `Python` | 📄 KCI Published (1st Author) |
+| ⚾ **[kbo-checkswing-detection](https://github.com/leejunhyeong-02/kbo-checkswing-detection)** | Real-time KBO check-swing automated adjudication system · [🎨 Poster](https://github.com/leejunhyeong-02/kbo-checkswing-detection/blob/main/assets/KBO_%EC%B2%B4%ED%81%AC%EC%8A%A4%EC%9C%99_%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88_%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf) | `YOLO11`, `OpenCV`, `Python` | 📄 KCI Published (1st Author) |
 | 🏃‍♂️ **[KSPO-Sports-Video-Analysis](https://github.com/leejunhyeong-02/KSPO-Sports-Video-Analysis)** | 2D/3D markerless motion analysis, biomechanics & sports vision archive | `OpenCap`, `OpenSim`, `Visual3D`, `Python` | 🎓 9-Week Completed |
 | ⚡ **[building-energy-ood-hybrid](https://github.com/leejunhyeong-02/building-energy-ood-hybrid)** | CI-CM hybrid time-series forecasting model for energy OOD | `Time-Series`, `OOD`, `PyTorch` | 📄 KICS 2026 Published |
 | 📚 **[Paper-Review](https://github.com/leejunhyeong-02/Paper-Review)** | VLM, 3D Vision papers and causal inference seminar archive | `VLM`, `3D Vision`, `Causal Inference` | 🔄 Actively Updating |
